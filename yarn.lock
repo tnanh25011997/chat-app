@@ -35,6 +35,18 @@ array-flatten@1.1.1:
   resolved "https://registry.yarnpkg.com/array-flatten/-/array-flatten-1.1.1.tgz#9a5f699051b1e7073328f2a008968b64ea2955d2"
   integrity sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
 
+bad-words@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/bad-words/-/bad-words-3.0.0.tgz#3c3671c778d14f258b1d24ee170c266bd74f6b8a"
+  integrity sha512-9ARnzlW0WeH9e1+MuyKO12hc+W1gLEjCVxA7ez1x4okukK5bZLi8pWqF9xe9dCcqO2LjujXLVbhOgZpHYx10tQ==
+  dependencies:
+    badwords-list "^1.0.0"
+
+badwords-list@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/badwords-list/-/badwords-list-1.0.0.tgz#5e9856dbf13482a295c3b0b304afb9d4cfc5c579"
+  integrity sha1-XphW2/E0gqKVw7CzBK+51M/FxXk=
+
 base64-arraybuffer@0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/base64-arraybuffer/-/base64-arraybuffer-0.1.4.tgz#9818c79e059b1355f97e0428a017c838e90ba812"
